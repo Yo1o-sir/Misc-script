@@ -253,7 +253,7 @@ Offset             Name                 Pid             PPid            Uid     
 
 当初没有做出题目的原因中，制作不出符号表是原因之一，另一个原因就是我对vol3相关的Linux插件没有掌握
 
-我顺便研究了所有的插件，并将它们汇总到新的文章中，这是传送门
+我顺便研究了所有的插件，并将它们汇总到新的文章中，这是[传送门](https://github.com/Yo1o-sir/Misc-script/blob/main/vol/Vol_plugins_summarize.md)
 
 下面我会放使用vol2,vol3两个版本对提取文件的过程
 
