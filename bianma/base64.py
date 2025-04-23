@@ -1,3 +1,4 @@
+# Author:Spreng
 import base64
 import random
 import itertools
